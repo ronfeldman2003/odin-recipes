@@ -1,0 +1,31 @@
+/*Main style sheet*/
+body{
+    background-color: #f1faee;
+    margin-left: 20px;
+    color: #1d3557;
+    font-size: 20px;
+}
+h1{
+    color: #457b9d;
+}
+a:link,a:visited{
+    color: #e63946;
+    text-decoration: none;
+}
+.recipe-img{
+    height: auto;
+    width: 500px;
+    border: 1px solid #1d3557;
+}
+.recipe-description{
+    border: 2px solid #1d3557;
+    padding-left: 5px;
+    margin-bottom: 10px;
+}
+
+.recipe-ingredients{
+    border: 2px solid #1d3557;
+    padding-left: 5px;
+
+
+}
